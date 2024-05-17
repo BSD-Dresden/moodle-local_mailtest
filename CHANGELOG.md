@@ -1,6 +1,28 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## [3.1.2] - 2024-04-28
+### Updated
+- Fixed incorrect error message for invalid DMARC ruf.
+- Cleaned-up language file.
+
+## [3.1.1] - 2024-04-23
+### Added
+- Github CI Workflows.
+- Github security reporting
+### Updated
+- Bug reporting form.
+- Tested compatible with PHP 5.6 to 8.3.
+- Compatible with Moodle up to v4.4.
+
+## [3.1.0] - 2024-02-22
+### Added
+- Now tests domain for SPF configuration.
+- Now tests Moodle and domain for DKIM configuration.
+- Now tests domain for DMARC configuration.
+- Now tests domain for BIMI configuration.
+- Updated copyright for 2024.
+
 ## [3.0.1] - 2023-10-23
 ### Updated
 - Now only run the tests that make sense in order to reduce unlikely recommendations.
