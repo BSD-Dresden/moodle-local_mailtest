@@ -2,8 +2,9 @@
 
 Local eMailTest plugin for Moodle
 =================================
-![PHP](https://img.shields.io/badge/PHP-v5.6%20to%208.3-blue.svg)
-![Moodle](https://img.shields.io/badge/Moodle-v2.5%20to%20v4.4-orange.svg)
+[![Moodle Plugin CI](https://github.com/michael-milette/moodle-local_mailtest/actions/workflows/moodle-ci.yml/badge.svg)](https://github.com/michael-milette/moodle-local_mailtest/actions/workflows/moodle-ci.yml)
+![PHP](https://img.shields.io/badge/PHP-v5.3%20to%208.3-blue.svg)
+![Moodle](https://img.shields.io/badge/Moodle-v2.4%20to%20v5.2-orange.svg)
 [![GitHub Issues](https://img.shields.io/github/issues/michael-milette/moodle-local_mailtest.svg)](https://github.com/michael-milette/moodle-local_mailtest/issues)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-green.svg)](#contributing)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](#license)
@@ -35,7 +36,7 @@ Once the test email has been sent, you will need to check your email in-box to c
 
 # Requirements
 
-This plugin requires Moodle 2.5+, 3.x+ or 4.x+ from https://moodle.org
+This plugin requires Moodle 2.5+, 3.x+, 4.x+ or 5.x+ from https://moodle.org
 
 [(Back to top)](#table-of-contents)
 
@@ -234,7 +235,7 @@ https://github.com/michael-milette/moodle-local_mailtest
 
 # License
 
-Copyright © 2015-2024 TNG Consulting Inc. - https://www.tngconsulting.ca/
+Copyright © 2015-2026 TNG Consulting Inc. - https://www.tngconsulting.ca/
 
 This file is part of MailTest/eMailTest for Moodle - https://moodle.org/
 
